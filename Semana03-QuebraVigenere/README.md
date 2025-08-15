@@ -1,7 +1,7 @@
 # Semana 3 - Quebra de Cifra (Análise de Frequência)
 
 ## Objetivo
-Implementar análise de frequência para quebrar cifras baseadas em XOR.
+Implementar análise de frequência para quebrar cifras baseadas em XOR. Quebrar cifras usando análise de frequência de caracteres.
 
 ## Observações
 - Assume que o caractere mais frequente é espaço (ASCII 32)
